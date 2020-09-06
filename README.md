@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# Varun Thakur(0001vrn)
+🔭 I am a software developer, an open-source contributor and an avid learner working on backend technologies using Java/Kotlin, Spring and AWS. In my free time, I write articles about my learnings and experiences with different technology or tools. I love exploring new technologies and have published articles on [Medium](https://medium.com/@001vrn) and [GeeksforGeeks](https://www.geeksforgeeks.org/meta-binary-search-one-sided-binary-search/). 
+
+💬 Ask me about: Java, Spring(Boot/MVC), AWS services like EC2, RDS, Elastic cache
+
+⚡ Fun fact: I love playing online FPS shooting games. Recently, I stumbled upon **Valorant** and I love it 😻 
+
+📫 How to reach me:
+
+[Linkedin](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn)
+
 <!--
 **0001vrn/0001vrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
