@@ -7,7 +7,7 @@
 
 📫 How to reach me:
 
-[Linkedin](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn)
+[LinkedIn](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn)
 
 <!--
 **0001vrn/0001vrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
