@@ -7,7 +7,9 @@
 
 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn)
+<a href="https://stackoverflow.com/users/11198871/varun-thakur"><img src="https://stackoverflow.com/users/flair/11198871.png?theme=clean" width="208" height="58" alt="profile for Varun Thakur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Varun Thakur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+[LinkedIn](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn) | [Stackoverflow]()
 
 <!--
 **0001vrn/0001vrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
