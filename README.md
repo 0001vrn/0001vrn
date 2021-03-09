@@ -7,7 +7,9 @@
 
 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11198871)
+[LinkedIn](https://www.linkedin.com/in/vrnthkr/) | [Medium](https://medium.com/@001vrn) | [Stackoverlfow](https://stackoverflow.com/users/11198871/varun-thakur)
+
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11198871)
 
 <!--
 **0001vrn/0001vrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
